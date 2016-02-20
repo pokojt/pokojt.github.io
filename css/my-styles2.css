@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+.col-sm-4 {
+  padding:20px;
+}
+
+p.row {
+  text-align: center;
+}
+
+img.responsive {
+  width: 96%;
+  height: auto;
+  max-width: 300px;
+  border: 5px;
+  border-right-color: grey;
+  box-shadow: 3px 3px 3px lightgray;
+}
+
+.moreprojects {
+  text-align: left;
+}
+
+a {
+  color: #C0D9D9;
+}
